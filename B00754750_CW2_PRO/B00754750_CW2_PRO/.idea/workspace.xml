@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dc50cee-3fbc-4bc4-ac3f-b4b9442f2693" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TsuRZXesgBmuY0xR1rrcUSsE1S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.DeckTest">
+    <configuration name="Card" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Card" />
+      <module name="ADS Assignment 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardForceClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CardForceClient" />
+      <module name="ADS Assignment 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <module name="ADS Assignment 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inShuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inShuffle" />
+      <module name="ADS Assignment 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeckTest" />
+        <item itemvalue="Application.CardForceClient" />
+        <item itemvalue="Application.Card" />
+        <item itemvalue="Application.inShuffle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dc50cee-3fbc-4bc4-ac3f-b4b9442f2693" name="Default Changelist" comment="" />
+      <created>1574261116405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574261116405</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1576331988254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1576331988254" />
+    <state x="566" y="297" width="403" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576422080191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1576422080191" />
+    <state width="1493" height="444" key="GridCell.Tab.0.bottom" timestamp="1576767072797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="444" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576767072797" />
+    <state width="1493" height="444" key="GridCell.Tab.0.center" timestamp="1576767072797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="444" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576767072797" />
+    <state width="1493" height="444" key="GridCell.Tab.0.left" timestamp="1576767072797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="444" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576767072797" />
+    <state width="1493" height="444" key="GridCell.Tab.0.right" timestamp="1576767072797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="444" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576767072797" />
+    <state x="499" y="167" key="extract.method.dialog" timestamp="1575206378373">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1575206378373" />
+    <state x="511" y="31" key="refactoring.ChangeSignatureDialog" timestamp="1576336805573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="31" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1576336805573" />
+    <state x="802" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1575122672888">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="802" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1575122672888" />
+  </component>
+</project>
